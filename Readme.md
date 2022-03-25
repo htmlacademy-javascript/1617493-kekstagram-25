@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Алена  Соловьева](https://up.htmlacademy.ru/javascript/25/user/1617493).
-* Наставник: `Неизвестно`.
+* Студент: [Алена Соловьева](https://up.htmlacademy.ru/javascript/25/user/1617493).
+* Наставник: [Ольга Юзич](https://htmlacademy.ru/profile/id350391).
 
 ---
 
